@@ -1,0 +1,561 @@
+[{
+  "_id": {
+    "$oid": "66ff6ec474a06f5e33aa909b"
+  },
+  "name": "Azad Nagar Police Station",
+  "telephone": 7049108537,
+  "phone": 7312711108,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8844,22.7004]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:27:48.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:27:48.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff6efa74a06f5e33aa909d"
+  },
+  "name": "Tejaji Nagar Police Station",
+  "telephone": 7312874004,
+  "phone": 7049108643,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8877,22.6391]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:28:42.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:28:42.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff700d0a231f589b7385b5"
+  },
+  "name": "sadar bazar police station",
+  "telephone": 7312542100,
+  "phone": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8522,22.7282]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:33:17.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:33:17.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff70d60a231f589b7385b7"
+  },
+  "name": "Police Station, Rau",
+  "telephone": 7312857544,
+  "phone": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8104,22.6360]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:36:38.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:36:38.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff71a00a231f589b7385b9"
+  },
+  "name": "Malharganj Police Station",
+  "telephone": 7312459100,
+  "phone": 7049108671,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8470,22.7197]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:40:00.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:40:00.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff71cf0a231f589b7385bb"
+  },
+  "name": "Police Station Rajendra Nagar",
+  "telephone": 7312321835,
+  "phone": 7049108714,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8313,22.6695]
+  },
+  "stationZone": "zone 1",
+  "createdAt": {
+    "$date": "2024-10-04T04:40:47.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:40:47.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff72390a231f589b7385bd"
+  },
+  "name": "Police Station Kanadia",
+  "telephone": 7587614526,
+  "phone": 7587614659,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.93678943639523,22.7302809509816]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:42:33.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:42:33.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff72810a231f589b7385c1"
+  },
+  "name": "Police Station Khajrana",
+  "telephone": 7312591475,
+  "phone": 7049108607,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.914391,22.731457]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:43:45.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:43:45.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff72d50a231f589b7385c3"
+  },
+  "name": "Vijay Nagar Police Station",
+  "telephone": 7312555611,
+  "phone": 7587614653,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.89518648880964,22.75165906154843]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:45:09.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:45:09.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff73110a231f589b7385c5"
+  },
+  "name": "Tilak Nagar , Police Station",
+  "telephone": 7049108542,
+  "phone": 7049107076,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.9047,22.7058]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:46:09.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:46:09.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff733f0a231f589b7385c7"
+  },
+  "name": "Pardesipura Police Station",
+  "telephone": 7312434100,
+  "phone": 7587614642,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8691,22.7375]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:46:55.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:46:55.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff736a0a231f589b7385c9"
+  },
+  "name": "M.I.G. Police Station",
+  "telephone": 7312578361,
+  "phone": 7049108592,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8850,22.7373]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:47:38.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:47:38.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff739a0a231f589b7385cb"
+  },
+  "name": "Lasudia Police Station",
+  "telephone": 7312802999,
+  "phone": 7049108616,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.9057,22.7853]
+  },
+  "stationZone": "zone 2",
+  "createdAt": {
+    "$date": "2024-10-04T04:48:26.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:48:26.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff73ea0a231f589b7385cd"
+  },
+  "name": "Banganga Police Station",
+  "telephone": 7312720300,
+  "phone": 7049108583,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.84815481377323,22.75697943771134]
+  },
+  "stationZone": "zone 3",
+  "createdAt": {
+    "$date": "2024-10-04T04:49:46.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:49:46.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff741e0a231f589b7385cf"
+  },
+  "name": "Central Kotwali Police Station",
+  "telephone": 7312546700,
+  "phone": 7049108505,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8644,22.7178]
+  },
+  "stationZone": "zone 3",
+  "createdAt": {
+    "$date": "2024-10-04T04:50:38.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:50:38.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff746b0a231f589b7385d1"
+  },
+  "name": "Choti Gwaltoli Police Station",
+  "telephone": 7312524400,
+  "phone": 7049108541,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.86946048154968,22.71948710292539]
+  },
+  "stationZone": "zone 3",
+  "createdAt": {
+    "$date": "2024-10-04T04:51:55.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:51:55.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff74b90a231f589b7385d3"
+  },
+  "name": "Hira nagar police station",
+  "telephone": 7312578367,
+  "phone": 7049108575,
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8753,22.7588]
+  },
+  "stationZone": "zone 3",
+  "createdAt": {
+    "$date": "2024-10-04T04:53:13.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:53:13.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c5e"
+  },
+  "name": "Indore Police - MG Road Police Station",
+  "telephone": {
+    "$numberLong": "7312540100"
+  },
+  "phone": {
+    "$numberLong": "7049108513"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8586,22.7200]
+  },
+  "stationZone": "Zone 3"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c5f"
+  },
+  "name": "Palasiya Police",
+  "telephone": {
+    "$numberLong": "7312499400"
+  },
+  "phone": {
+    "$numberLong": "7049108548"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.88849413378792,22.72392319509712]
+  },
+  "stationZone": "Zone 3"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c60"
+  },
+  "name": "Sanyogita Ganj Police Station",
+  "telephone": {
+    "$numberLong": "7312703030"
+  },
+  "phone": {
+    "$numberLong": "7049108532"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.87807482573018,22.707942014866223]
+  },
+  "stationZone": "Zone 3"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c61"
+  },
+  "name": "Tukoganj Police Station",
+  "telephone": {
+    "$numberLong": "7312433100"
+  },
+  "phone": {
+    "$numberLong": "7049108523"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.87415153922213,22.721936814453336]
+  },
+  "stationZone": "Zone 3"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c62"
+  },
+  "name": "Annapurna Police Station",
+  "telephone": {
+    "$numberLong": "7049108705"
+  },
+  "phone": {
+    "$numberLong": "7312449343"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.84171998154895,22.69607474236645]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c63"
+  },
+  "name": "Bhawarkuan Police Station",
+  "telephone": {
+    "$numberLong": "7312449948"
+  },
+  "phone": {
+    "$numberLong": "7049108640"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.87263677969527,22.68454976709924]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c64"
+  },
+  "name": "Chandan Nagar Police Station",
+  "telephone": {
+    "$numberLong": "7312780033"
+  },
+  "phone": {
+    "$numberLong": "7049108697"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.8251217849825,22.706899787096386]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c65"
+  },
+  "name": "Chhatripura Police Station",
+  "telephone": {
+    "$numberLong": "7312349851"
+  },
+  "phone": {
+    "$numberLong": "7049108663"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.84651351038559,22.71042121967671]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c66"
+  },
+  "name": "Dwarkapuri Police Station",
+  "telephone": {
+    "$numberLong": "7312797183"
+  },
+  "phone": {
+    "$numberLong": "7049107815"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.82241332202291,22.683771361370578]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c67"
+  },
+  "name": "Juni Indore Police Station",
+  "telephone": {
+    "$numberLong": "7312449651"
+  },
+  "phone": {
+    "$numberLong": "7049108624"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.86048288154923,22.70625044178855]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c68"
+  },
+  "name": "Pandhrinath Police Station",
+  "telephone": {
+    "$numberLong": "7312349800"
+  },
+  "phone": {
+    "$numberLong": "7049108655"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.85620830667925,22.71435854992614]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c69"
+  },
+  "name": "Raoji Bazaar Police Station",
+  "telephone": {
+    "$numberLong": "7312449369"
+  },
+  "phone": {
+    "$numberLong": "7049108632"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.86237687784292,22.71026719617795]
+  },
+  "stationZone": "Zone 4"
+},
+{
+  "_id": {
+    "$oid": "66ff7910a8650ae593214c6a"
+  },
+  "name": "Police Station Sarafa",
+  "telephone": {
+    "$numberLong": "7312541156"
+  },
+  "phone": {
+    "$numberLong": "7049108649"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [75.85093505769773,22.7179791940526]
+  },
+  "stationZone": "Zone 4"
+}]
